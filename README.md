@@ -2,8 +2,6 @@
 
 ## About Me
 
-🎓 Computer Science Student
-
 📚 Currently learning Data Science, Machine Learning, and Artificial Intelligence
 
 💻 Building projects and documenting my learning journey using Git and GitHub
